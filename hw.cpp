@@ -4,4 +4,5 @@ int main()
 {
 
     cout << "howew";
+    return 0;
 }
